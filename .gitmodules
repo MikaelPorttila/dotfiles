@@ -1,3 +1,4 @@
 [submodule "FiraCode"]
 	path = FiraCode
 	url = https://github.com/tonsky/FiraCode
+	branch = master
