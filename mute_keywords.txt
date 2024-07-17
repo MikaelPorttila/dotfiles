@@ -13,6 +13,7 @@ Panasonic
 Packard Bell
 e-reader
 Samsung Galaxy A
+Samsung Galaxy M
 Samsung Galaxy S21
 Samsung Galaxy S22
 Samsung Galaxy S23
@@ -43,8 +44,13 @@ nubia
 nokia
 india
 snabbkollen
-Portronics
-Google Calendar
+portronics
+google calendar
 Python
 Veckans fråga
 ev charger
+The morning after
+blm
+lgbt
+hbt
+cad price
