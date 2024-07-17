@@ -54,3 +54,4 @@ blm
 lgbt
 hbt
 cad price
+tech deals
