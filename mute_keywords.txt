@@ -9,6 +9,7 @@ xiaomi
 OnePlus Nord
 OnePlus 12
 OnePlus Pad
+OnePlus Watch
 Maimang
 Acer
 Marshall
