@@ -6,6 +6,7 @@ yoga
 protonvpn
 xiaomi
 OnePlus Nord
+OnePlus 12
 Marshall
 JBL
 manscaped
