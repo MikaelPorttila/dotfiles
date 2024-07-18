@@ -87,3 +87,6 @@ day 5
 nio phone
 Quiz
 Aircraft
+Save $
+Save €
+Save £
