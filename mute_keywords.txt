@@ -8,6 +8,7 @@ xiaomi
 OnePlus Nord
 OnePlus 12
 OnePlus Pad
+Maimang
 Acer
 Marshall
 Llama
