@@ -18,6 +18,7 @@ Samsung Galaxy S21
 Samsung Galaxy S22
 Samsung Galaxy S23
 Samsung Galaxy S24
+Samsung Galaxy Z Fold
 Shanling
 HMD
 pokemon go
@@ -79,3 +80,4 @@ day 2
 day 3
 day 4
 day 5
+nio phone
