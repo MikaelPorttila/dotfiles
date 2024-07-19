@@ -26,6 +26,7 @@ Samsung Galaxy S22
 Samsung Galaxy S23
 Samsung Galaxy S24
 Samsung Galaxy Z Fold
+Galaxy Tab
 Shanling
 HMD
 pokemon go
@@ -128,3 +129,9 @@ Geekbuying
 tuf gaming
 fcc
 gemini ai
+Motorola
+Dyson
+Yuan
+fire tv
+tv stick
+ftc
