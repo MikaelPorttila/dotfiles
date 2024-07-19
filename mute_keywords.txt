@@ -50,6 +50,7 @@ tiktok
 snapchat
 canon
 nubia
+halo
 nokia
 cash app
 access point
@@ -142,3 +143,5 @@ soundbar
 subwoofer
 it admins
 netflix
+mirroring
+starbucks
