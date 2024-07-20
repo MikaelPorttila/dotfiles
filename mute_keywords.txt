@@ -154,3 +154,8 @@ crypto
 airtag
 mortal kombat
 dji
+blueray
+blue-ray
+viaplay
+ergonomic
+Secretlab
