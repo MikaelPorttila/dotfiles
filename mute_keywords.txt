@@ -164,3 +164,14 @@ ergonomic
 Secretlab
 last chance
 sale price
+playstation 1
+psx
+playstation 2
+playstation 3
+playstation 4
+playstation 5
+nintendo 64
+nintendo wii
+nintendo ds
+nintendo switch 1
+dragon ball
