@@ -193,3 +193,6 @@ Office suite
 7900x
 3d print
 23H2
+creative cloud
+photoshop
+adobe pdf
