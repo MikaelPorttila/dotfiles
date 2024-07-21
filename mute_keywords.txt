@@ -170,6 +170,17 @@ playstation 2
 playstation 3
 playstation 4
 playstation 5
+ps1
+ps2
+ps3
+ps4
+ps5
+ps 1
+ps 2
+ps 3
+ps 4
+ps 5
+dualshock
 nintendo 64
 nintendo wii
 nintendo ds
