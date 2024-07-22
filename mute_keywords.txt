@@ -201,3 +201,6 @@ Galaxy Z Flip
 Galaxy Ring
 iFlytek
 Xiaoxin Pad
+Alternatives
+router
+splintgate
