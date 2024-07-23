@@ -74,6 +74,7 @@ google calendar
 Python
 Veckans fråga
 ev charger
+Courses
 The morning after
 blm
 lgbt
