@@ -1,3 +1,7 @@
+[@]solid state
+[@]solid-state
+[@]graphene
+[@]nanotube
 trump
 biden
 redmi
