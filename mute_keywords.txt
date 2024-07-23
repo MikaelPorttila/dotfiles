@@ -9,6 +9,7 @@ tunnelbear
 honor
 yoga
 protonvpn
+facebook
 xiaomi
 OnePlus Nord
 OnePlus 12
