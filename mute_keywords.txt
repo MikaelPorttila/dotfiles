@@ -28,6 +28,10 @@ Llama
 JBL
 manscaped
 Panasonic
+alexa
+siri
+cortana
+ai assist
 Packard Bell
 e-reader
 Samsung Galaxy A
