@@ -21,11 +21,11 @@ Packard Bell
 e-reader
 Samsung Galaxy A
 Samsung Galaxy M
-Samsung Galaxy S21
-Samsung Galaxy S22
-Samsung Galaxy S23
-Samsung Galaxy S24
-Samsung Galaxy Z Fold
+Galaxy S21
+Galaxy S22
+Galaxy S23
+Galaxy S24
+Galaxy Z Fold
 Galaxy Tab
 Galaxy Watch
 charging outpost
@@ -219,3 +219,5 @@ street fighter
 apple original
 available for
 Fanatical
+indiegala
+
