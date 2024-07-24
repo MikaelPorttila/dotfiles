@@ -17,6 +17,9 @@ Apple-maps
 Ai-power
 onenote
 bear
+bing
+altavista
+myspaces
 budget webcam
 webcam
 911 calls
