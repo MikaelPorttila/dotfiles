@@ -2,6 +2,12 @@
 [@]solid-state
 [@]graphene
 [@]nanotube
+[@]qdel
+[@]q-del
+[@]electroluminescent
+[@]micro-led
+[@]microled
+[@]mled
 trump
 harris
 biden
@@ -12,6 +18,7 @@ yoga
 k-pop
 protonvpn
 facebook
+Gizmochina Daily
 xiaomi
 google nest
 fortnite
