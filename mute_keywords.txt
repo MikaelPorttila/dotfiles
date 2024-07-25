@@ -18,6 +18,9 @@ Apple maps
 Apple-maps
 Ai-power
 onenote
+BYD
+shareplay
+ios
 bear
 bing
 altavista
