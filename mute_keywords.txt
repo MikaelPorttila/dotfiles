@@ -22,7 +22,10 @@ stalker 1
 Liquid Cooler
 epyc
 AIO
+Diskutera
 rgb
+maingear
+chatgpt
 Apple maps
 Apple-maps
 Ai-power
