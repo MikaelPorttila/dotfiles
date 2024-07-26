@@ -113,6 +113,9 @@ Galaxy S21
 Galaxy S22
 Galaxy S23
 Galaxy S24
+Galaxy W25
+Galaxy W26
+Galaxy W27
 Galaxy Z Fold
 Galaxy Tab
 Galaxy Watch
