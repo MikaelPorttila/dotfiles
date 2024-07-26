@@ -43,6 +43,7 @@ Google Play
 shareplay
 ios
 bear
+marvel
 bing
 altavista
 myspaces
@@ -55,6 +56,8 @@ iphone 13
 iphone 14
 iphone 15
 ipad
+esr
+us healthcare
 911 calls
 tunnelbear
 honor
