@@ -10,6 +10,7 @@
 [allow]mled
 [pattern]/\\d+\\s+(reason|way|easy)+/g
 [pattern]/(top|day)+\\s+\\d+/g
+[pattern]/((P|p)ixel)+\\s*(6|7|8|9)+\\b/g
 [pattern]/((P|p)laystation|(P|p)s)+\\s*(1|2|3|4|5)+\\b/g
 [pattern]/\\$(\\d*\\.?\\d*)+\\s(off)/g
 trump
@@ -205,10 +206,6 @@ Hisense
 discount
 sonos ace
 drop to
-Pixel 9
-Pixel 8
-Pixel 7
-Pixel 6
 Dune
 Disney Plus
 Disney+
