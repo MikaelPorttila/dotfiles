@@ -1,13 +1,13 @@
-[@]solid state
-[@]solid-state
-[@]graphene
-[@]nanotube
-[@]qdel
-[@]q-del
-[@]electroluminescent
-[@]micro-led
-[@]microled
-[@]mled
+[allow]solid state
+[allow]solid-state
+[allow]graphene
+[allow]nanotube
+[allow]qdel
+[allow]q-del
+[allow]electroluminescent
+[allow]micro-led
+[allow]microled
+[allow]mled
 [pattern]/\\d+\\s+(reason|way|easy)+/g
 [pattern]/(top|day)+\\s+\\d+/g
 [pattern]/((P|p)laystation|(P|p)s)+\\s*(1|2|3|4|5)+\\b/g
