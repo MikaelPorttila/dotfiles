@@ -9,6 +9,7 @@
 [@]microled
 [@]mled
 [pattern]/\\d+\\s+(reason|way|easy)+/g
+[pattern]/(top|day)+\\s+\\d+/g
 trump
 harris
 biden
@@ -127,9 +128,6 @@ nordvpn
 expressvpn
 realme
 viewsonic
-top 5
-top 10
-top 3
 blitzwolf
 Surfshark
 Huawei
@@ -185,21 +183,7 @@ poco
 dj music
 keychron
 climate change
-1 reason
-2 reasons
-3 reasons
-4 reasons
-5 reasons
-6 reasons
-7 reasons
-8 reasons
-9 reasons
-10 reasons
 emmy
-day 2
-day 3
-day 4
-day 5
 nio phone
 Quiz
 Aircraft
@@ -212,19 +196,8 @@ ipad
 Alienware
 Hisense
 discount
-2 easy
-3 easy
-4 easy
-5 easy
-6 easy
-7 easy
-8 easy
 sonos ace
 drop to
-Top 3
-Top 5
-Top 6
-Top 10
 Pixel 9
 Pixel 8
 Pixel 7
@@ -323,15 +296,6 @@ amazfit
 back-to-school
 irobot
 roomba
-2 ways
-3 ways
-4 ways
-5 ways
-6 ways
-7 ways
-8 ways
-9 ways
-10 ways
 windows 11 pc
 windows 10 pc
 windows 12 pc
