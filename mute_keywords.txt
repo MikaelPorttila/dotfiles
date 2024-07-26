@@ -8,6 +8,7 @@
 [@]micro-led
 [@]microled
 [@]mled
+[pattern]/\\d+\\s+(reason|way|easy)+/g
 trump
 harris
 biden
