@@ -10,6 +10,7 @@
 [@]mled
 [pattern]/\\d+\\s+(reason|way|easy)+/g
 [pattern]/(top|day)+\\s+\\d+/g
+[pattern]/((P|p)laystation|(P|p)s)+\\s*(1|2|3|4|5)+\\b/g
 trump
 harris
 biden
@@ -252,22 +253,7 @@ ergonomic
 Secretlab
 last chance
 sale price
-playstation 1
 psx
-playstation 2
-playstation 3
-playstation 4
-playstation 5
-ps1
-ps2
-ps3
-ps4
-ps5
-ps 1
-ps 2
-ps 3
-ps 4
-ps 5
 dualshock
 nintendo 64
 nintendo wii
