@@ -8,7 +8,7 @@
 [allow]micro-led
 [allow]microled
 [allow]mled
-[pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must)+/g
+[pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale)+/g
 [pattern]/(top|day)+\\s+\\d+/g
 [pattern]/((P|p)ixel)+\\s*(6|7|8|9)+\\b/g
 [pattern]/((P|p)laystation|(P|p)s)+\\s*(1|2|3|4|5)+\\b/g
