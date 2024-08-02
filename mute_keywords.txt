@@ -8,6 +8,7 @@
 [allow]micro-led
 [allow]microled
 [allow]mled
+[allow]battery
 [allow]TCL CSOT
 [allow-url]hemnet.se
 [pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale|product)+/g
