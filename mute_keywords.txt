@@ -24,6 +24,7 @@ npad
 quiz
 nft
 Infinix
+heatsink
 Refurbished
 coolers
 24 inch
