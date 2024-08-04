@@ -11,7 +11,7 @@
 [allow]battery
 [allow]TCL CSOT
 [allow-url]hemnet.se
-[pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale|product)+/g
+[pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale|product|recommended)+/g
 [pattern]/(top|day)+\\s+\\d+/g
 [pattern]/((P|p)ixel)+\\s*([6-9])+\\b/g
 [pattern]/((P|p)laystation|(P|p)s)+\\s*([1-5]|Plus)+\\b/g
