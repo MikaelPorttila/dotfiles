@@ -71,6 +71,7 @@ Apple-maps
 Ai-power
 onenote
 silent hill
+namecheap
 BYD
 red magic
 Google Play
