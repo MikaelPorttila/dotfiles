@@ -58,6 +58,7 @@ Krönika
 trends
 stalker 2
 stalker 1
+test drive
 Liquid Cooler
 epyc
 AIO
@@ -168,6 +169,7 @@ selling for
 pokemon go
 pokémon go
 nordvpn
+iProVPN
 expressvpn
 realme
 viewsonic
