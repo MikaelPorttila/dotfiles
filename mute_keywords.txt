@@ -10,6 +10,7 @@
 [allow]mled
 [allow]battery
 [allow]TCL CSOT
+[allow]hellgate
 [allow-url]hemnet.se
 [pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale|product|recommended|favorite|thing|obvious)+/g
 [pattern]/(top|day)+\\s+\\d+/g
