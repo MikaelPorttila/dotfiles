@@ -13,7 +13,7 @@
 [allow]hellgate
 [allow]ARC Raiders
 [allow-url]hemnet.se
-[pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale|product|recommended|favorite|thing|obvious|coolest|cool)+/g
+[pattern]/\\d+\\s+(reason|way|easy|worst|best|fun|awesome|must|sign|telltale|product|recommended|favorite|thing|obvious|coolest|cool|helpful)+/g
 [pattern]/(top|day)+\\s+\\d+/g
 [pattern]/((P|p)ixel)+\\s*([6-9])+\\b/g
 [pattern]/((P|p)laystation|(P|p)s)+\\s*([1-5]|Plus)+\\b/g
@@ -40,6 +40,7 @@ Rivian
 Sony WH
 24 inch
 24"
+echo show
 24-inch
 Meizu
 our favorite
