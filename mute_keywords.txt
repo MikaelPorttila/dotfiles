@@ -29,6 +29,7 @@ nft
 Infinix
 heatsink
 school
+obsidian
 Refurbished
 coolers
 flash drive
