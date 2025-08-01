@@ -322,6 +322,8 @@ nintendo 64
 nintendo wii
 nintendo ds
 nintendo switch 1
+switch 2
+gemini cli
 dragon ball
 Microsoft Office
 Office suite
