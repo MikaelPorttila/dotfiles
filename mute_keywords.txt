@@ -103,6 +103,12 @@ bear
 marvel
 bing
 altavista
+RTX 5040
+RTX 5050
+RTX 5060
+RTX 5070
+Core i5
+Core 5
 myspaces
 budget webcam
 webcam
