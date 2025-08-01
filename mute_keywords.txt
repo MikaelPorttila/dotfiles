@@ -158,6 +158,7 @@ portugese
 French
 Maimang
 Acer
+spotlight
 Marshall
 Llama
 JBL
