@@ -8,6 +8,8 @@
 [allow]micro-led
 [allow]microled
 [allow]mled
+[allow]miniled
+[allow]mini-led
 [allow]battery
 [allow]TCL CSOT
 [allow]hellgate
