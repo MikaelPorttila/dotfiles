@@ -35,6 +35,7 @@ roomba
 Infinix
 heatsink
 school
+fitness
 obsidian
 T-mobile
 travel laptop
