@@ -29,6 +29,7 @@ redmi
 npad
 quiz
 nft
+Fragzone
 rollme
 Infinix
 heatsink
