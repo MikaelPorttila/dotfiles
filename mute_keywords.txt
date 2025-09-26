@@ -88,8 +88,7 @@ Inkscape
 stalker 2
 stalker 1
 test drive
-ROG Xbox Ally X
-ROG Xbox Ally
+Xbox Ally
 Liquid Cooler
 epyc
 AIO
