@@ -29,6 +29,7 @@ redmi
 npad
 quiz
 nft
+rollme
 Infinix
 heatsink
 school
