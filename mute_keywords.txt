@@ -117,7 +117,11 @@ shareplay
 ios
 bear
 marvel
+oppo
+metal gear solid
 bing
+OxygenOS
+balatro
 altavista
 RTX 5040
 RTX 5050
