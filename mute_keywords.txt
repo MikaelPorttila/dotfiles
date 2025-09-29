@@ -21,7 +21,7 @@
 [pattern]/((P|p)laystation|(P|p)s)+\\s*([1-5]|Plus)+\\b/g
 [pattern]/\\$(\\d*\\.?\\d*)+\\s(off)/g
 [pattern]/((B|b)est|recommended)+\\s*(phone|laptop|desktop|car|watch|smartwatch|computer)/g
-[pattern]/((?i:galaxy) (?i:(a|m|w))([\\d\\s])\\s*)/g
+[pattern]/((galaxy) ((a|m|w))([\\d\\s])\\s*)/gi
 trump
 harris
 biden
