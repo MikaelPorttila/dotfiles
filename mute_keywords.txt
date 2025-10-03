@@ -29,6 +29,8 @@ redmi
 npad
 quiz
 nft
+parental control
+record sale
 Fragzone
 rollme
 roomba
@@ -74,7 +76,11 @@ best buy
 newsletter
 the verge
 launch prices
+raspberry pi 500
+kindle
+alexa plus
 ROG Ally X
+Xbox ally
 Thermostat
 Apex Legends
 soccer
@@ -133,8 +139,11 @@ Core 5
 myspaces
 budget webcam
 webcam
+Google TV
 microSD
 apple watch
+apple smartwatch
+iOS Beta
 iphone 10
 iphone 11
 iphone 12
@@ -145,6 +154,7 @@ iphone 16
 iphone 17
 iphone air
 ipad
+priced at
 esr
 us healthcare
 911 calls
