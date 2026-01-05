@@ -13,7 +13,7 @@
 [allow]battery
 [allow]TCL CSOT
 [allow]hellgate
-[allow]ARC Raiders
+[allow]micro rgb
 [allow-url]hemnet.se
 [pattern]/\\d+\\s+(reason|way|ways|easy|worst|best|fun|awesome|must|sign|telltale|product|recommended|favorite|thing|obvious|coolest|cool|helpful|classic|chromebook|upcoming)+/g
 [pattern]/(top|day)+\\s+\\d+/g
@@ -91,6 +91,7 @@ golf
 sports
 best price
 racing car
+arc raiders
 Gran Turismo
 PUBG
 Krönika
