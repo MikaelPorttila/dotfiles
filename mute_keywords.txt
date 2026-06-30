@@ -161,6 +161,9 @@ iphone 16
 iphone 17
 iphone air
 ipad
+DDR2
+DDR3
+DDR4
 priced at
 esr
 us healthcare
