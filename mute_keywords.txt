@@ -241,6 +241,12 @@ Galaxy Z Fold
 Galaxy Tab
 Galaxy Watch
 Galaxy Wide
+Pixel 10
+Pixel 10a
+Pixel 11
+Pixel 11a
+Pixel 11b
+Pixel 11c
 charging outpost
 Pavilion
 Shanling
