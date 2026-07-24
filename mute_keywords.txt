@@ -153,6 +153,9 @@ RTX 5040
 RTX 5050
 RTX 5060
 RTX 5070
+RTX 3060
+RTX 3070
+McAfee
 Core i5
 Core 5
 myspaces
