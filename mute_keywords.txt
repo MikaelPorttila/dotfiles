@@ -212,6 +212,7 @@ cloud storage
 cloud drive
 skydrive
 onedrive
+amazon luna
 microsoft 365
 Fuji
 best plugins
