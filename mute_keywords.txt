@@ -65,6 +65,9 @@ doorbell
 proxmox
 £
 gta vi
+One UI
+Buy this
+SOUNDBOKS
 PlayStation Network
 verizon
 flash drive
@@ -125,6 +128,7 @@ stalker 2
 stalker 1
 test drive
 Xbox Ally
+COLORFIRE
 Liquid Cooler
 epyc
 messi
@@ -136,6 +140,8 @@ rgb
 maingear
 chatgpt
 xbox 360
+xbox cloud
+PS Vita
 Apple maps
 Apple-maps
 Ai-power
@@ -260,6 +266,8 @@ Galaxy S24
 Galaxy W25
 Galaxy W26
 Galaxy W27
+Galaxy F70
+Galaxy F80
 Galaxy Z Fold
 Galaxy Tab
 Galaxy Watch
@@ -272,6 +280,7 @@ Pixel 11b
 Pixel 11c
 charging outpost
 Pavilion
+Ugreen
 Shanling
 HMD
 grok
