@@ -19,9 +19,10 @@
 [allow]opus
 [allow]Fable
 [allow]Mythos
-[Allow]GROK-
-[Allow]GPT-
-[Allow]cursor
+[allow]GROK-
+[allow]GPT-
+[allow]cursor
+[allow]openrouter
 [allow-url]hemnet.se
 [pattern]/\\d+\\s+(reason|way|ways|easy|worst|best|fun|awesome|must|sign|telltale|product|recommended|favorite|thing|obvious|coolest|cool|helpful|classic|chromebook|upcoming)+/g
 [pattern]/(top|day)+\\s+\\d+/g
