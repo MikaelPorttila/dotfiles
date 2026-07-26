@@ -165,6 +165,7 @@ bing
 OxygenOS
 balatro
 altavista
+RTX 50
 RTX 5040
 RTX 5050
 RTX 5060
@@ -347,6 +348,7 @@ oppo
 zte
 meizu
 huawei
+Opera
 realme
 readmagic
 coolpad
