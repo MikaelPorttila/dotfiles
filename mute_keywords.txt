@@ -109,6 +109,7 @@ the verge
 launch prices
 raspberry pi 500
 gaming laptop
+ESP32
 kindle
 alexa plus
 ROG Ally X
@@ -119,6 +120,8 @@ soccer
 Ulefone
 hockey
 golf
+QD-OLED
+Nike
 sports
 best price
 racing car
@@ -377,6 +380,18 @@ Aircraft
 Save $
 Save €
 Save £
+youtube premium
+Xbox's
+best wireless
+IdeaPad
+nanoleaf
+difference between
+SweetNight
+mattress
+USB 2
+USB 3
+new favorite
+8GB
 Get an
 AirPod
 ipad
