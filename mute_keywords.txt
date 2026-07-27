@@ -140,6 +140,8 @@ epyc
 messi
 ronaldo
 fifa
+ai alliance
+ai safety
 AIO
 Diskutera
 rgb
