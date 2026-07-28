@@ -126,6 +126,7 @@ Nike
 sports
 best price
 racing car
+drops to
 arc raiders
 Gran Turismo
 PUBG
@@ -393,6 +394,9 @@ USB 2
 USB 3
 new favorite
 8GB
+4GB
+2GB
+12GB
 Get an
 AirPod
 ipad
