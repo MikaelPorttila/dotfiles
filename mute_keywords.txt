@@ -196,6 +196,9 @@ RTX 3070
 RTX 4050
 RTX 4060
 RTX 4070
+RX 9070
+RX 9060
+PowerColor
 McAfee
 Core i5
 Core 5
