@@ -68,6 +68,8 @@ school
 fitness
 obsidian
 T-mobile
+bose
+Dimensity
 travel laptop
 IndieGala
 Refurbished
@@ -75,6 +77,7 @@ coolers
 doorbell
 proxmox
 £
+http://localhost:5187/
 gta vi
 One UI
 Buy this
