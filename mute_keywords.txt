@@ -85,6 +85,8 @@ coolers
 doorbell
 proxmox
 £
+high score
+high-score
 http://localhost:5187/
 gta vi
 One UI
@@ -238,6 +240,7 @@ iphone 14
 iphone 15
 iphone 16
 iphone 17
+iphone 18
 iphone air
 ipad
 DDR2
