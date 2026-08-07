@@ -204,6 +204,10 @@ OxygenOS
 balatro
 altavista
 RTX 50
+RTX 2080
+RTX 2070
+RTX 2060
+RTX 1080
 RTX 5040
 RTX 5050
 RTX 5060
@@ -533,6 +537,7 @@ Fanatical
 indiegala
 cmf phone
 cmf watch
+court order
 Nothing Phone (1)
 Nothing Phone 1
 Nothing Phone (2)
@@ -540,6 +545,9 @@ Nothing Phone 2
 Nothing Phone (2a)
 Nothing Phone 2a
 Nothing Ear
+Nothing Phone (4a)
+ThinkBook
+Quake
 legion
 warframe
 Cadillac
