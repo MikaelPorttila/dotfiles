@@ -50,6 +50,7 @@ power mac
 intel xeon
 hyperx
 cheap ev
+Zuckerberg
 self-driving
 steam controller
 Chromebook
@@ -58,6 +59,7 @@ trade-in
 quiz
 gift card
 nft
+lava
 google wallet
 Roku
 lexus
