@@ -124,6 +124,7 @@ Borderlands 4
 Sony WH
 24 inch
 24"
+baseball
 echo show
 24-inch
 Meizu
@@ -136,6 +137,7 @@ Timex
 Titan GA
 casio
 Saucony
+golf
 olympic
 shoe review
 lowest price
@@ -154,6 +156,7 @@ Xbox ally
 Thermostat
 Apex Legends
 soccer
+fotball
 Ulefone
 hockey
 golf
@@ -163,6 +166,7 @@ sports
 best price
 racing car
 drops to
+football
 arc raiders
 Gran Turismo
 PUBG
@@ -175,6 +179,7 @@ stalker 2
 stalker 1
 test drive
 Xbox Ally
+super bowl
 COLORFIRE
 Liquid Cooler
 epyc
