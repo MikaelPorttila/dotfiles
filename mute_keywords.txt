@@ -40,6 +40,9 @@ ford
 android auto
 ray-ban
 venmo
+wifi
+wi-fi
+sulfur
 washing machine
 omen
 steamdeck mod
