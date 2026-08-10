@@ -36,6 +36,7 @@ harris
 biden
 redmi
 npad
+Noctua
 ford
 android auto
 ray-ban
