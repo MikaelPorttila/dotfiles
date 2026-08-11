@@ -210,6 +210,8 @@ AIO
 Diskutera
 rgb
 maingear
+meta glass
+meta glasses
 chatgpt
 xbox 360
 xbox cloud
