@@ -38,6 +38,7 @@ redmi
 npad
 Noctua
 ford
+Deepcool
 android auto
 switch controller
 ray-ban
