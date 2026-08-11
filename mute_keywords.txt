@@ -62,6 +62,7 @@ eco-drive
 sandisk
 Raises $
 trade-in
+Chuwi
 quiz
 gift card
 nft
@@ -126,6 +127,8 @@ Zephyrus
 engadget
 data center
 gallons
+Bluetooth headphones
+hearing aid
 farmland
 helgsnack
 Brave Rewards
@@ -313,6 +316,10 @@ amazon luna
 microsoft 365
 Fuji
 best plugins
+food order
+Air Purifier
+Wildcat Lake
+NVIDIA Nemotron 3.5
 top plugins
 top apps
 best apps
