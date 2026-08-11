@@ -39,6 +39,7 @@ npad
 Noctua
 ford
 android auto
+switch controller
 ray-ban
 venmo
 wifi
