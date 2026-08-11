@@ -38,6 +38,8 @@ redmi
 npad
 Noctua
 ford
+zoom
+vr app
 Deepcool
 android auto
 switch game
@@ -319,6 +321,9 @@ cloud storage
 cloud drive
 skydrive
 onedrive
+ai study
+to watch
+streaming service
 amazon luna
 microsoft 365
 Fuji
