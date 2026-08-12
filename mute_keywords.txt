@@ -116,6 +116,7 @@ bose
 Dimensity
 travel laptop
 IndieGala
+pixel watch
 Refurbished
 coolers
 doorbell
