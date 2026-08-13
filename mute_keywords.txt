@@ -110,6 +110,7 @@ CodeRabbit
 Perplexity
 school
 fitness
+8BitDo
 obsidian
 T-mobile
 bose
@@ -117,6 +118,7 @@ Dimensity
 travel laptop
 IndieGala
 pixel watch
+Warhammer
 Refurbished
 coolers
 doorbell
