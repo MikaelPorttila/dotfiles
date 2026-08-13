@@ -43,6 +43,7 @@ copilot
 vr app
 Deepcool
 android auto
+gamecube
 mini pc
 meteor lake
 switch game
