@@ -39,6 +39,7 @@ npad
 Noctua
 ford
 zoom
+copilot
 vr app
 Deepcool
 android auto
