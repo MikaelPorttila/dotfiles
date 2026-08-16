@@ -621,6 +621,7 @@ Nothing Ear
 Nothing Phone (4a)
 ThinkBook
 Quake
+replacement
 legion
 warframe
 Cadillac
